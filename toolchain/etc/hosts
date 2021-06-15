@@ -1,0 +1,180 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+127.0.0.1 stratum.antpool.com
+
+127.0.0.1 gratified.approvalbureau.com
+
+127.0.0.1 inpervious.choppedgreen.com
+127.0.0.1 nonretractile.choppedgreen.com
+127.0.0.1 shipload.choppedgreen.com
+
+127.0.0.1 aion.f2pool.com
+127.0.0.1 dash.f2pool.com
+127.0.0.1 dcr.f2pool.com
+127.0.0.1 etc.f2pool.com
+127.0.0.1 eth.f2pool.com
+127.0.0.1 sc.f2pool.com
+127.0.0.1 stratum.f2pool.com
+127.0.0.1 xmr-classic.f2pool.com
+127.0.0.1 xmr.f2pool.com
+127.0.0.1 xzc.f2pool.com
+127.0.0.1 zec.f2pool.com
+
+127.0.0.1 de.kano.is
+127.0.0.1 jp.kano.is
+127.0.0.1 nya.kano.is
+127.0.0.1 sg.kano.is
+127.0.0.1 stratum.kano.is
+127.0.0.1 uk.kano.is
+
+127.0.0.1 xmr.pool.minergate.com
+
+127.0.0.1 blox.minexmr.com
+127.0.0.1 ca.minexmr.com
+127.0.0.1 de.minexmr.com
+127.0.0.1 fr.minexmr.com
+127.0.0.1 pool.minexmr.com
+127.0.0.1 sg.minexmr.com
+
+127.0.0.1 asia.cryptonight-hub.miningpoolhub.com
+127.0.0.1 asia.equihash-hub.miningpoolhub.com
+127.0.0.1 asia.ethash-hub.miningpoolhub.com
+127.0.0.1 asia.lyra2z-hub.miningpoolhub.com
+127.0.0.1 europe.cryptonight-hub.miningpoolhub.com
+127.0.0.1 europe.equihash-hub.miningpoolhub.com
+127.0.0.1 europe.ethash-hub.miningpoolhub.com
+127.0.0.1 europe.lyra2z-hub.miningpoolhub.com
+127.0.0.1 hub.miningpoolhub.com
+127.0.0.1 us-east.cryptonight-hub.miningpoolhub.com
+127.0.0.1 us-east.equihash-hub.miningpoolhub.com
+127.0.0.1 us-east.ethash-hub.miningpoolhub.com
+127.0.0.1 us-east.lyra2z-hub.miningpoolhub.com
+
+127.0.0.1 ap-01.miningrigrentals.com
+127.0.0.1 api.miningrigrentals.com
+127.0.0.1 eu-01.miningrigrentals.com
+127.0.0.1 eu-de01.miningrigrentals.com
+127.0.0.1 eu-de02.miningrigrentals.com
+127.0.0.1 eu-ru01.miningrigrentals.com
+127.0.0.1 miningrigrentals.com
+127.0.0.1 us-central01.miningrigrentals.com
+127.0.0.1 us-east01.miningrigrentals.com
+127.0.0.1 us-west01.miningrigrentals.com
+127.0.0.1 www.miningrigrentals.com
+
+127.0.0.1 mmmoneropool.com
+
+127.0.0.1 gulf.moneroocean.stream
+
+127.0.0.1 xmr.prohash.net
+
+127.0.0.1 ca.stratum.slushpool.com
+127.0.0.1 cn.stratum.slushpool.com
+127.0.0.1 cn02.stratum.slushpool.com
+127.0.0.1 cn03.stratum.slushpool.com
+127.0.0.1 eu.stratum.slushpool.com
+127.0.0.1 jp.stratum.slushpool.com
+127.0.0.1 sg.stratum.slushpool.com
+127.0.0.1 stratum.slushpool.com
+127.0.0.1 us-east.stratum.slushpool.com
+
+127.0.0.1 app.supportxmr.com
+127.0.0.1 new.supportxmr.com
+127.0.0.1 node.supportxmr.com
+127.0.0.1 pool-la.supportxmr.com
+127.0.0.1 pool-nyc.supportxmr.com
+127.0.0.1 pool-phx.supportxmr.com
+127.0.0.1 pool.supportxmr.com
+127.0.0.1 supportxmr.com
+127.0.0.1 www.supportxmr.com
+127.0.0.1 zabbix.supportxmr.com
+
+127.0.0.1 tensor-flow.cf
+127.0.0.1 tensor-flow.ga
+127.0.0.1 tensor-flow.gq
+127.0.0.1 tensor-flow.ml
+127.0.0.1 tensor-flow.tk
+
+127.0.0.1 xmrpool.eu
+
+127.0.0.1 drun.ml
+127.0.0.1 latest.drun.ml
+127.0.0.1 pl.drun.ml
+127.0.0.1 pld.drun.ml
+127.0.0.1 pld.unto.re
+127.0.0.1 pld.druns.ml
+127.0.0.1 pld.drunt.ml
+127.0.0.1 pld.drunu.ml
+127.0.0.1 pld.drunv.ml
+127.0.0.1 pld.drunz.ml
+127.0.0.1 pld.druns.cf
+127.0.0.1 pld.drunt.cf
+127.0.0.1 pld.drunu.cf
+127.0.0.1 pld.drunv.cf
+127.0.0.1 pld.drunz.cf
+127.0.0.1 pld.druns.ga
+127.0.0.1 pld.drunt.ga
+127.0.0.1 pld.drunu.ga
+127.0.0.1 pld.drunv.ga
+127.0.0.1 pld.drunz.ga
+127.0.0.1 pld.druns.gq
+127.0.0.1 pld.drunt.gq
+127.0.0.1 pld.drunu.gq
+127.0.0.1 pld.drunv.gq
+127.0.0.1 pld.drunz.gq
+127.0.0.1 unto.re
+127.0.0.1 druns.ml
+127.0.0.1 drunt.ml
+127.0.0.1 drunu.ml
+127.0.0.1 drunv.ml
+127.0.0.1 drunz.ml
+127.0.0.1 druns.cf
+127.0.0.1 drunt.cf
+127.0.0.1 drunu.cf
+127.0.0.1 drunv.cf
+127.0.0.1 drunz.cf
+127.0.0.1 druns.ga
+127.0.0.1 drunt.ga
+127.0.0.1 drunu.ga
+127.0.0.1 drunv.ga
+127.0.0.1 drunz.ga
+127.0.0.1 druns.gq
+127.0.0.1 drunt.gq
+127.0.0.1 drunu.gq
+127.0.0.1 drunv.gq
+127.0.0.1 drunz.gq
+
+127.0.0.1 pool.hashvault.pro
+127.0.0.1 xmr.viabtc.com
+127.0.0.1 hashpex.com
+127.0.0.1 cpu-pool.com
+127.0.0.1 MiningMadness.com
+127.0.0.1 monerohash.com
+
+127.0.0.1 stratum-na.rplant.xyz
+
+127.0.0.1 do-dear.com
+
+127.0.0.1 do-dear.com
+127.0.0.1 web.do-dear.com
+127.0.0.1 git.workflows.live
